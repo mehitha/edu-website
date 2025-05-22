@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edu-website/static/css/main.2664bf24.css",
+    "main.js": "/edu-website/static/js/main.5841e705.js",
+    "index.html": "/edu-website/index.html",
+    "main.2664bf24.css.map": "/edu-website/static/css/main.2664bf24.css.map",
+    "main.5841e705.js.map": "/edu-website/static/js/main.5841e705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2664bf24.css",
+    "static/js/main.5841e705.js"
+  ]
+}
